@@ -1,6 +1,6 @@
 # SQL Analysis
 
-## Use data_with_profit_margin.sql for analysis and visualization.
+## Use 'data_with_profit_margin.sql' for analysis and visualization.
 
 Run suitable queries. 
 
