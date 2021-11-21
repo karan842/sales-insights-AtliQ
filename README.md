@@ -16,7 +16,7 @@ about sales to regional managers but with the help of data he/she will get an re
 - Review the data and clean it, check it.
 - Perform data analytics with SQL queries(check SQL folder).
 - Second data contains the extra columns in transaction table ant those based on Profit, Profit Margin Percentage and Cost Amount. So try to analayze, summarize the data
-- Build Tableau dashboards based on different factors of the data but salses manager mostly wanted insight and Sales Quantity, Revenue and Profit in all yeara, quaters, regions,cities.
+- Build Tableau dashboards based on different factors of the data but salses manager mostly wanted insight and Sales Quantity, Revenue and Profit in all years, quaters, regions,cities.
 - Provide a better understanding specially on Tableau dashboards.
 
 ## 🟡Approach:
