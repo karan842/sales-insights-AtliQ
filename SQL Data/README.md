@@ -1,8 +1,11 @@
 # SQL Analysis
 
-## Use 'data_with_profit_margin.sql' for analysis and visualization.
+##About SQL data
+- **data1.sql** is data which does not contain **Profit**, **Profit Margin** where **data_with_profit_margin.sql** contains all profit related attribute which is the main data for this task.
+- First analyzed **data1.sql** and then analyzed second data
 
-Run suitable queries. 
+
+### 🔵Run suitable queries. 
 
 
 ## Some Snippet:
